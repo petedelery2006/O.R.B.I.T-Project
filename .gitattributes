@@ -1,0 +1,7 @@
+# Preserve supplied source snapshots byte-for-byte.
+*.ino -text
+docs/sensors-current.md -text
+*.stl binary
+*.pcb binary
+*.bak binary
+*.gif binary

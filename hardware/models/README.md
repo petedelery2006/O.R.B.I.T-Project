@@ -1,3 +1,7 @@
+# Current models: [O.R.B.I.T. 1.0](1.0/README.md)
+
+The three models below are retained from the earlier prototype.
+
 # Prototype models
 
 Original STL data is preserved unchanged; filenames are simplified for repository use.

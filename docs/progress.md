@@ -1,4 +1,27 @@
-# Progress log
+# Current snapshot — October 17, 2026
+
+The supplied 1.0 files replace the earlier 0.1 snapshot as the current project reference.
+
+- Added the original Mega 2560, SGP30 Uno, and magnetic/light Uno firmware, with matching Arduino sketch folders.
+- Added nine 1.0 enclosure STL parts and the original Pad2Pad fan-control PCB/backup.
+- Added startup and air-sample GIF previews to the project page.
+- Updated the parts list to include all current checkmarked entries and explicit quantities.
+- Documented code-derived wiring, display addresses, controls, serial telemetry, dependencies, and measurement limitations.
+- Preserved earlier parts notes, models, and milestones below as historical information.
+
+## Remaining build records
+
+- [ ] Record exact library versions, successful compile/upload results, and memory use.
+- [ ] Confirm physical sensor/display operation and add wiring/assembly photos.
+- [ ] Resolve the battery voltage discrepancy between the parts list and Mega code.
+- [ ] Verify power distribution, fan driver/PCB, and INA219 measurement placement.
+- [ ] Record enclosure scale, print settings, and mechanical fit.
+- [ ] Add calibration and reference measurements.
+
+The source files show implemented behavior; they do not provide new hardware test results.
+
+---
+# Historical progress log (September 2026)
 
 Compiled 2026-09-10 from the supplied files and visible project conversation. Dates identify reported milestones, not independently recorded test runs.
 
